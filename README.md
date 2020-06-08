@@ -1,4 +1,4 @@
-# TypeScript Course #1 Danish's Assignment
+### TypeScript Course #1 Danish's Assignment 
 
-- Covered upto functions
+:heavy_check_mark: Covered upto functions
 

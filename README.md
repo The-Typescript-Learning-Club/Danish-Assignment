@@ -1,2 +1,4 @@
-#I did some programs using type script 
+# TypeScript Course #1 Danish's Assignment
+
+- Covered upto functions
 
